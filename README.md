@@ -9,7 +9,7 @@ $ apt install python python2 git -y
 
 $ pip2 install requests mechanize
 
-$ git clone https://github.com/SAIFUR-2009/CLONER-BD11DIGIT.git
+$ git clone https://github.com/Ariyanahmedmamun/FB-Clone
 
 $ cd Fb-Clone
 
