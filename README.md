@@ -11,19 +11,17 @@ $ pip2 install requests mechanize
 
 $ git clone https://github.com/SAIFUR-2009/CLONER-BD11DIGIT.git
 
-$ cd CLONER-BD11DIGIT
+$ cd Fb-Clone
 
-$ python2 CLONER-BD11DIGIT.py
+$ python2 fb-clone.py
 
-# Usename And Password
-# No Need
+# Usename And Password 👇👇
+# Inbox
 
 
 ## Find Me on :
 
-[![Instagram](style=for-the-badge&logo=instagram)]()
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/abbu.2454)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/abbu.2454)
-[![Github](https://img.shields.io/badge/Github-SAIFUR-2009green?style=for-the-badge&logo=github)](https://github.com/SAIFUR-2009)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Cyber.Expert.Mamun.2454)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.meCyber.Expert.Mamun.2454)
 
 
