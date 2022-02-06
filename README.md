@@ -11,7 +11,7 @@ $ pip2 install requests mechanize
 
 $ git clone https://github.com/Ariyanahmedmamun/FB-Clone
 
-$ cd Fb-Clone
+$ cd FB-Clone
 
 $ python2 fb-clone.py
 
