@@ -19,7 +19,7 @@ $ cd FB-Clone
 
 $ python2 fb-clone.py
 
-# Usename And Password 👇👇
+# Username And Password 👇👇
 # Inbox
 
 
