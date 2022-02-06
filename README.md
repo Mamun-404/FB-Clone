@@ -1,3 +1,7 @@
+𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/ariyanahmedmamun/count.svg" />
+</p>
+
 # Bangladeshi All Sim cloner
 # Command
 
@@ -25,3 +29,6 @@ $ python2 fb-clone.py
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.meCyber.Expert.Mamun.2454)
 
 
+𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/ariyanahmedmamun/count.svg" />
+</p>
