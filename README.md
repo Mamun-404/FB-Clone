@@ -1,5 +1,5 @@
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/ariyanahmedmamun/count.svg" />
+ <img src="https://profile-counter.glitch.me/mamun-404/count.svg" />
 </p>
 
 # Bangladeshi All Sim cloner
@@ -13,7 +13,7 @@ $ apt install python python2 git -y
 
 $ pip2 install requests mechanize
 
-$ git clone https://github.com/Ariyanahmedmamun/FB-Clone
+$ git clone https://github.com/Mamun-404/FB-Clone/
 
 $ cd FB-Clone
 
