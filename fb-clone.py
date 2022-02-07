@@ -103,7 +103,7 @@ def menu():
     print 'Codder.  : Mamun404'
     print 'AUTHOR   : ARIYAN AHMED MAMUN'
     print 'FACEBOOK : https://www.facebook.com/Cyber.Expert.Mamun'
-    print 'GITHUB   : https://github.com/Ariyanahmedmamun'
+    print 'GITHUB   : https://github.com/Mamun-404'
     print ''
     print 50* '-'
     print '[1]  \x1b[1;96mGP'
